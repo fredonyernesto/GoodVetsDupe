@@ -13,7 +13,7 @@ import Join from './pages/Join';
 import Portal from './pages/Portal';
 import Book from './pages/Book';
 import NotFound from './pages/NotFound';
-// import './index.css'
+
 
 const router = createBrowserRouter([
   {

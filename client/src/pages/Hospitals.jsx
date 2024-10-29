@@ -2,7 +2,7 @@
 const Hospitals = () => {
     
     return(
-        <div>Testing</div>
+        <div>Locations - HOSPITAL</div>
     )
   };
   

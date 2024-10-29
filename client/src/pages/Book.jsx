@@ -2,7 +2,7 @@
 const Book = () => {
     
     return(
-        <div>Testing</div>
+        <div>Book now!</div>
     )
 };
 
