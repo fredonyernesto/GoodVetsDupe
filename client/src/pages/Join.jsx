@@ -1,9 +1,9 @@
 
-const Home = () => {
+const Join = () => {
     
     return(
         <div>Testing</div>
     )
 };
 
-export default Home;
+export default Join;

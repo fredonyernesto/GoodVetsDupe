@@ -1,9 +1,9 @@
 
-const Home = () => {
+const Locations = () => {
     
     return(
         <div>Testing</div>
     )
 };
 
-export default Home;
+export default Locations;

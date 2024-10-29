@@ -1,9 +1,9 @@
 
-const Home = () => {
+const Services = () => {
     
     return(
         <div>Testing</div>
     )
 };
 
-export default Home;
+export default Services;

@@ -1,9 +1,9 @@
 
-const Home = () => {
+const Portal = () => {
     
     return(
         <div>Testing</div>
     )
 };
 
-export default Home;
+export default Portal;

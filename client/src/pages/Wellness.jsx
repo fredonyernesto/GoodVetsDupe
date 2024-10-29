@@ -1,9 +1,9 @@
 
-const Home = () => {
+const Wellness = () => {
     
     return(
         <div>Testing</div>
     )
 };
 
-export default Home;
+export default Wellness;

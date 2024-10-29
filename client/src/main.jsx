@@ -5,14 +5,14 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import App from './App.jsx'
 import Home from './pages/Home'
-// import Hospitals from './pages/Hospitals';
-// import Locations from './pages/Locations';
-// import Services from './pages/Services';
-// import Wellness from './pages/Wellness';
-// import Join from './pages/Join';
-// import Portal from './pages/Portal';
-// import Book from './pages/Book';
-// import NotFound from './pages/NotFound';
+import Hospitals from './pages/Hospitals';
+import Locations from './pages/Locations';
+import Services from './pages/Services';
+import Wellness from './pages/Wellness';
+import Join from './pages/Join';
+import Portal from './pages/Portal';
+import Book from './pages/Book';
+import NotFound from './pages/NotFound';
 // import './index.css'
 
 const router = createBrowserRouter([
