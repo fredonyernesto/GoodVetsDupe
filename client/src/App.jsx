@@ -3,6 +3,8 @@ import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
 import NB from './components/NB'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+import Footer from './components/FooterTemp/FooterTemp'
+
 const client = new ApolloClient({
   uri: '/graphql',
   cache: new InMemoryCache(),
@@ -11,8 +13,8 @@ const client = new ApolloClient({
 function App() {
   return (
     <ApolloProvider client={client}>
-        <NB />
-        <Outlet />
+      <NB />
+      <Outlet />
     </ApolloProvider>
   );
 }

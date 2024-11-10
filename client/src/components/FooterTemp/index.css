@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #262626;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    color: white;
+}
+
+.footer-title{
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 10px;
+    text-decoration-color: #FEC20D;
+    font-family: "Crimson Pro";
+    font-weight: 200;
+    font-size: 35px;
+}
+
+.footer-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 2.0;
+    font-family: "Red Hat Text", sans-serif;
+}
+
+.footer-icons{
+   display: flex;
+   gap: 15px;
+}
+
+.footer-list-info{
+    line-height: 1.5;
+}
