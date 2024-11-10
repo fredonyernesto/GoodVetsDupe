@@ -18,7 +18,7 @@ function Footer() {
                     </Col>
 
                     {/* Column #2 with two lists side-by-side */}
-                    <Col lg={3} className="footer-section footer-clients-team">
+                    <Col lg={4} className="footer-section footer-clients-team">
                         <Row className="footer-inner-row">
                             
                             <Col md={6} className="footer-subsection footer-clients">
@@ -49,10 +49,10 @@ function Footer() {
                     {/* Column #3 */}
                     <Col lg={4} className="footer-section footer-info">
                     <div className='footer-icons'>
-                        <FontAwesomeIcon icon={faInstagram}  size="3x"/>
-                        <FontAwesomeIcon icon={faLinkedin} size="3x"/>
-                        <FontAwesomeIcon icon={faTiktok} size="3x"/>
-                        <FontAwesomeIcon icon={faFacebook} size="3x"/>
+                        <FontAwesomeIcon icon={faInstagram}  color="#6B7280" size="3x"/>
+                        <FontAwesomeIcon icon={faLinkedin} color="#6B7280" size="3x"/>
+                        <FontAwesomeIcon icon={faTiktok} color="#6B7280" size="3x"/>
+                        <FontAwesomeIcon icon={faFacebook} color="#6B7280" size="3x"/>
                     </div>
                         <ul className="footer-list footer-list-info">
                             <li className="footer-list-item">Terms & Legal</li>

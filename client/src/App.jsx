@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router-dom';
 import { ApolloClient, ApolloProvider, InMemoryCache } from '@apollo/client';
-import NB from './components/NB'
+import NB from './components/NB/NB'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Footer from './components/FooterTemp/FooterTemp'

@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button';
 
 function NB() {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" className="bg-body-tertiary" fixed='top'>
       <Container>
         <Navbar.Brand href="/">GoodVets</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

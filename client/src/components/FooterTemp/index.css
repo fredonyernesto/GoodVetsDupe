@@ -33,6 +33,21 @@
    gap: 15px;
 }
 
+.footer-icons .svg-inline--fa:hover { 
+    color: #FEC20D;  
+}
+
 .footer-list-info{
     line-height: 1.5;
+}
+
+.footer-row{
+    justify-content: center;
+}
+
+.footer-locations{
+    margin-right: 5px;
+}
+.footer-clients-team{
+    margin-right: 100px;
 }
