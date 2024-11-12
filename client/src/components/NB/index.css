@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 5px;
+    /* box-shadow here is a placeholder for later. */
+}
+
+.navbar-brand{
+    float: left;
+}
+
+.nav-links{
+    float: right;
+}

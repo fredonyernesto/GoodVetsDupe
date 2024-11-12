@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Image from 'react-bootstrap/Image';
-import Footer from '../components/FooterTemp/FooterTemp'
+import Footer from '../../components/FooterTemp/FooterTemp'
 
 const Home = () => {
 
@@ -81,7 +81,7 @@ const Home = () => {
                 {/* --- Page Break --- */}
             </div>
 
-            <Footer />
+           
 
         </div>
     )

@@ -4,15 +4,15 @@ import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import App from './App.jsx'
-import Home from './pages/Home'
-import Hospitals from './pages/Hospitals';
-import Locations from './pages/Locations';
-import Services from './pages/Services';
-import Wellness from './pages/Wellness';
-import Join from './pages/Join';
-import Portal from './pages/Portal';
-import Book from './pages/Book';
-import NotFound from './pages/NotFound';
+import Home from './pages/Home/Home.jsx'
+import Hospitals from './pages/Hospitals/Hospitals.jsx';
+import Locations from './pages/Locations/Locations.jsx';
+import Services from './pages/Services/Services.jsx';
+import Wellness from './pages/Wellness/Wellness.jsx';
+import Join from './pages/Join/Join.jsx';
+import Portal from './pages/Portal/Portal.jsx';
+import Book from './pages/Book/Book.jsx';
+import NotFound from './pages/NotFound/NotFound.jsx';
 
 
 const router = createBrowserRouter([

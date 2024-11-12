@@ -1,0 +1,15 @@
+.page-content{
+   
+}
+
+.container{
+    border: 2px;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+
+.content{
+    padding: 20px;
+}
+
